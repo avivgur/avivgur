@@ -8,6 +8,16 @@ I'm not a classical algorithms engineer. I'm the person who understands the busi
 
 ## Selected projects
 
+### 📊 [Adtex — Executive Operations Platform](https://github.com/avivgur/adtex-management-platform)
+
+**The problem:** Leadership at a multi-entity AdTech company relied on four disconnected systems — a performance API, Monday.com CRM, Google Sheets finance ledgers, and an operational database. No single view showed what was happening, whether the data was fresh, or where to intervene.
+
+**The build:** A unified executive command center: typed connector contracts isolate each provider's schema, a snapshot orchestrator pulls all sources concurrently with independent health reporting, and a business-rules layer turns raw events into KPIs, alerts, and goal pacing. In the production system this runs on scheduled syncs with self-healing backfills — and serving optimization cut dashboard TTFB from 3.4s to ~30ms.
+
+**What it demonstrates:** Multi-system integration architecture (CRM, finance, performance data), operational reliability engineering, and translating executive decision-making needs into a data platform. The public repo is a clean-room edition with synthetic data.
+
+**Stack:** Next.js · TypeScript · React · Monday.com API · Google Sheets API · Supabase · Vercel Cron · Vitest · GitHub Actions
+
 ### 🎹 [KeySight — Piano Practice Tracker](https://github.com/avivgur/piano-tracker)
 
 **The problem:** Music teachers see students once a week, but the learning happens between lessons — and that practice is invisible. Manual practice logs add friction and rarely reflect what was actually played.
