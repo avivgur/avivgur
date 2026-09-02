@@ -38,11 +38,11 @@ I'm not a classical algorithms engineer. I'm the person who understands the busi
 
 ## Technology
 
-**Languages:** Python, TypeScript, SQL
-**AI:** OpenAI API (GPT-4o), LLM workflow design, prompt engineering for structured outputs
-**Backend & data:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Supabase
-**Frontend:** Next.js, React
-**Integrations & automation:** Google Workspace APIs, Monday.com, REST APIs
+**Languages:** Python, TypeScript, SQL  
+**AI:** OpenAI API (GPT-4o), LLM workflow design, prompt engineering for structured outputs  
+**Backend & data:** FastAPI, PostgreSQL, SQLAlchemy, Pydantic, Supabase  
+**Frontend:** Next.js, React  
+**Integrations & automation:** Google Workspace APIs, Monday.com, REST APIs  
 **Delivery:** GitHub Actions, CI/CD, Docker, Alembic, Raspberry Pi
 
 ## Connect
